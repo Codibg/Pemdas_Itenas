@@ -1,2 +1,7 @@
 # Pemdas_Itenas
-Kumpulan Tugas Pemdas 
+
+Kumpulan Tugas Pemdas
+
+### Kelas  : FF
+### NRP    : 152020100
+### Nama   : Algi Fahreza
